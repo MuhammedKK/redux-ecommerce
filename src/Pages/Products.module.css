@@ -1,0 +1,14 @@
+
+img {
+    object-fit: cover;
+    /* max-width:150px;
+    max-height: 100px; */
+    max-width: 286px;
+    max-height: 189px;
+}
+
+a {
+    width: 100%;
+    margin: auto;
+    /* background-color: aliceblue !important; */
+}
